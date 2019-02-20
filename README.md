@@ -1,2 +1,2 @@
 # Movie_predict
-  - Matlab
+  - Matlab -> 10월 2-3주 프로젝트
